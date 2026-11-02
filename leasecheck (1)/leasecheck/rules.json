@@ -1,0 +1,122 @@
+[
+  {
+    "id": "R01",
+    "name": "Security deposit too high",
+    "severity": "red",
+    "what_to_look_for": "A security deposit larger than two months' rent in the first year of the lease, or larger than one month's rent at the start of the second year or later.",
+    "why_it_matters": "Pennsylvania law caps the deposit at two months' rent in the first year and one month's rent from the second year on.",
+    "question_to_ask": "Can you confirm the deposit amount? I understand PA law limits it to two months' rent in the first year.",
+    "source_name": "PA Landlord and Tenant Act of 1951, 68 P.S. 250.511a",
+    "source_url": "https://www.inquirer.com/real-estate/housing/security-deposit-pennsylvania-landlord-tenant-rights-20200831.html"
+  },
+  {
+    "id": "R02",
+    "name": "Deposit return too slow or not itemized",
+    "severity": "red",
+    "what_to_look_for": "Language letting the landlord return the deposit later than 30 days after move-out, or keep it without giving a written itemized list of deductions.",
+    "why_it_matters": "In Pennsylvania the landlord must return the deposit, with an itemized list of any deductions, within 30 days after the tenant moves out.",
+    "question_to_ask": "Will you return the deposit within 30 days with an itemized list of any deductions?",
+    "source_name": "PA Landlord and Tenant Act of 1951, 68 P.S. 250.512",
+    "source_url": "https://resources.tellusapp.com/landlords/pennsylvania/security-deposits/pennsylvania-security-deposit-laws-for-landlords"
+  },
+  {
+    "id": "R03",
+    "name": "Non-refundable deposit or fee",
+    "severity": "yellow",
+    "what_to_look_for": "Any part of the security deposit labeled non-refundable, or move-in, cleaning, or 'administrative' fees that cannot be returned.",
+    "why_it_matters": "A deposit can only be kept for damage, unpaid rent, or lease breach. A 'non-refundable deposit' can be a way to keep money the law says should come back.",
+    "question_to_ask": "What exactly is this fee for, and is any of it refundable?",
+    "source_name": "Inquirer tenants' rights guide: security deposits",
+    "source_url": "https://www.inquirer.com/real-estate/housing/security-deposit-pennsylvania-landlord-tenant-rights-20200831.html"
+  },
+  {
+    "id": "R04",
+    "name": "Tenant pays for all repairs",
+    "severity": "red",
+    "what_to_look_for": "Clauses making the tenant responsible for all repairs, including major systems such as heat, plumbing, electrical, roof, or structure, or waiving the landlord's duty to keep the unit livable.",
+    "why_it_matters": "Landlords have a duty to keep a rental safe and livable (the warranty of habitability). Tenants generally cannot sign that duty away.",
+    "question_to_ask": "Who handles repairs to heat, plumbing, and electrical, and how do I request them?",
+    "source_name": "Penn Off-Campus Services summary of Philadelphia tenant rights",
+    "source_url": "https://off-campus-services.business-services.upenn.edu/node/30"
+  },
+  {
+    "id": "R05",
+    "name": "Landlord not responsible for anything",
+    "severity": "yellow",
+    "what_to_look_for": "Clauses saying the landlord is not liable for any injury, damage, or loss, even if caused by the landlord's own negligence.",
+    "why_it_matters": "Broad liability waivers may not hold up, but they can discourage tenants from asserting their rights. Worth asking about before signing.",
+    "question_to_ask": "If something breaks because of a building problem and damages my things, who is responsible?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  },
+  {
+    "id": "R06",
+    "name": "Entry without notice",
+    "severity": "yellow",
+    "what_to_look_for": "Language letting the landlord enter the unit at any time, for any reason, without advance notice.",
+    "why_it_matters": "Your privacy depends on what the lease says. Ask for reasonable advance notice (for example, 24 hours) except in emergencies.",
+    "question_to_ask": "Can we agree you'll give 24 hours' notice before entering, except in emergencies?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  },
+  {
+    "id": "R07",
+    "name": "Waiver of notice or confession of judgment",
+    "severity": "red",
+    "what_to_look_for": "Clauses where the tenant waives the right to notice before eviction, waives the right to go to court, or 'confesses judgment' (agrees in advance that the landlord wins any lawsuit).",
+    "why_it_matters": "These clauses can take away key protections. Get the lease reviewed before signing anything like this.",
+    "question_to_ask": "Can this waiver clause be removed?",
+    "source_name": "Temple Law students' Landlord-Tenant Help Service (get a review)",
+    "source_url": "https://temple-university.helpscoutdocs.com/article/6642-landlord-tenant-help-service"
+  },
+  {
+    "id": "R08",
+    "name": "High or stacking late fees",
+    "severity": "yellow",
+    "what_to_look_for": "Late fees that are large compared to rent, that grow every day without a cap, or that start with no grace period.",
+    "why_it_matters": "Daily late fees with no cap can grow quickly. Know the exact amount, the grace period, and the maximum.",
+    "question_to_ask": "Is there a grace period, and what's the maximum late fee?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  },
+  {
+    "id": "R09",
+    "name": "Automatic renewal",
+    "severity": "yellow",
+    "what_to_look_for": "The lease renews automatically unless the tenant gives notice long in advance (for example, 60 or 90 days or more).",
+    "why_it_matters": "Students who miss the notice deadline can get locked into another year or penalty fees.",
+    "question_to_ask": "When exactly do I need to tell you if I'm not renewing, and how?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  },
+  {
+    "id": "R10",
+    "name": "Rent can change mid-lease",
+    "severity": "yellow",
+    "what_to_look_for": "Language letting the landlord raise rent or add new fees during the lease term.",
+    "why_it_matters": "A fixed-term lease should lock in your rent. Mid-lease increases make budgeting impossible.",
+    "question_to_ask": "Is the rent fixed for the whole lease term?",
+    "source_name": "Penn Off-Campus Services summary of Philadelphia tenant rights",
+    "source_url": "https://off-campus-services.business-services.upenn.edu/node/30"
+  },
+  {
+    "id": "R11",
+    "name": "Tenant pays landlord's legal fees",
+    "severity": "yellow",
+    "what_to_look_for": "The tenant must pay the landlord's attorney fees or court costs in any dispute, with no matching right for the tenant.",
+    "why_it_matters": "One-sided fee clauses make it risky to dispute anything, even when you're right.",
+    "question_to_ask": "Can the attorney-fee clause apply to both sides equally?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  },
+  {
+    "id": "R12",
+    "name": "Joint and several liability",
+    "severity": "green",
+    "what_to_look_for": "Roommates are 'jointly and severally' liable for the full rent and any damage.",
+    "why_it_matters": "This is common and usually legal, but it means you can owe the whole rent if a roommate doesn't pay. Students should understand it before signing.",
+    "question_to_ask": "If a roommate leaves, how is their share of rent handled?",
+    "source_name": "Community Legal Services of Philadelphia",
+    "source_url": "https://clsphila.org/"
+  }
+]
